@@ -39,7 +39,7 @@ While building Crypto Verse, I strengthened my skills in:
 # 🧑‍💻 Developer
 Name: Merkhas Aslan
 
-GitHub: @Merkhas
+GitHub: (https://github.com/Merkhas)
 
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/merkhas-aslan-551358358/)
 
